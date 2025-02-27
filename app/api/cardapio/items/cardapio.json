@@ -1,0 +1,734 @@
+[
+    {
+        "sectionName": "CAIPIRINHA E BATIDAS",
+        "items": [
+            {
+                "name": "SABORES",
+                "price": "ABACAXI, COCO, MORANGO, MARACUJÁ,LIMÄO, MANGA, CAJU, KIWI, ACEROLA, FRUTAS VERMELHAS, ABACAXI C/ HORTELA",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "VELHO BARREIRO",
+                "price": "R$33,00",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "51",
+                "price": "R$33,00",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "SMIRNOFF",
+                "price": "R$36,00",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "YPIOCA",
+                "price": "R$33,00",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "ASA MINAS",
+                "price": "R$33,00",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "CABARE",
+                "price": "R$33,00",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "SAQUE",
+                "price": "R$33,00",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "SAGATIBA",
+                "price": "R$35,00",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "RUN BACARDI",
+                "price": "R$36,00",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "STEINHAEGER",
+                "price": "R$35,00",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "TEQUILA",
+                "price": "R$70,00",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "ABSOLUT",
+                "price": "R$60,00",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "CIROC",
+                "price": "R$70,00",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "JURULOKA",
+                "price": "R$35,00",
+                "valor": null,
+                "description": "JURUPINGA, MORANGO,GROSELHA,LEITE CONDENSADO E LIMÃO"
+            },
+            {
+                "name": "PINA COLADA",
+                "price": "R$35,00",
+                "valor": null,
+                "description": "RUM, ABACAXI, LEITE DE COCO E LEITE CONDENSADO"
+            },
+            {
+                "name": "BEIJO NA BOCA",
+                "price": "R$35,00",
+                "valor": null,
+                "description": "CHAMPANHE, MORANGO, LEITE CONDENSADO"
+            },
+            {
+                "name": "ESPANHOLA",
+                "price": "R$35,00",
+                "valor": null,
+                "description": "VINHO, ABACAXI, OU MORANGO E LEITE CONDENSADO"
+            },
+            {
+                "name": "PARAÍSO",
+                "price": "R$35,00",
+                "valor": null,
+                "description": "CACHAÇA DE CANELA, MARACUJA E LIMÃO"
+            }
+        ]
+    },
+    {
+        "sectionName": "CERVEJA 600ML",
+        "items": [
+            {
+                "name": "SPATEN",
+                "price": "Preco sob consulta",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "ORIGINAL",
+                "price": "Preco sob consulta",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "SKOL",
+                "price": "Preco sob consulta",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "BRAHMA",
+                "price": "Preco sob consulta",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "BRAHMA DUPLO MALTE",
+                "price": "Preco sob consulta",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "BUDWEISER",
+                "price": "Preco sob consulta",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "ANTÁRTICA",
+                "price": "Preco sob consulta",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "STELLA",
+                "price": "Preco sob consulta",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "ITAIPAVA",
+                "price": "Preco sob consulta",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "PETRA",
+                "price": "Preco sob consulta",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "IMPÉRIO",
+                "price": "Preco sob consulta",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "HEINEKEN",
+                "price": "Preco sob consulta",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "AMSTEL",
+                "price": "Preco sob consulta",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "EINSENBAH",
+                "price": "Preco sob consulta",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "THERESOPOLIS",
+                "price": "Preco sob consulta",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "ESTRELA GALÍCIA",
+                "price": "Preco sob consulta",
+                "valor": null,
+                "description": null
+            }
+        ]
+    },
+    {
+        "sectionName": "CERVEJA LATA E LONG&NECK",
+        "items": [
+            {
+                "name": "SPATEN",
+                "price": "Preço sob consulta",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "ORIGINAL",
+                "price": "Preço sob consulta",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "SKOL",
+                "price": "Preço sob consulta",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "BRAHMA",
+                "price": "Preço sob consulta",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "BRAHMA ZERO",
+                "price": "Preço sob consulta",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "BRAHMA DUPLO MALTE",
+                "price": "Preço sob consulta",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "CORONA",
+                "price": "Preço sob consulta",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "HEINEKEN ZERO",
+                "price": "Preço sob consulta",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "SMIRNOFF ICE",
+                "price": "Preço sob consulta",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "SKOL BEATS",
+                "price": "Preço sob consulta",
+                "valor": null,
+                "description": null
+            }
+        ]
+    },
+    {
+        "sectionName": "ENERGÉTICO",
+        "items": [
+            {
+                "name": "RED BULL",
+                "price": "R$18,00",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "TNT",
+                "price": "R$18,00",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "MONSTER",
+                "price": "R$18,00",
+                "valor": null,
+                "description": null
+            }
+        ]
+    },
+    {
+        "sectionName": "ESPETINHO",
+        "items": [
+            {
+                "name": "FRANGO",
+                "price": "R$18,00",
+                "valor": "",
+                "description": ""
+            },
+            {
+                "name": "CAMARÃO",
+                "price": "R$18,00",
+                "valor": "",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "sectionName": "LANCHES",
+        "items": [
+            {
+                "name": "HOT DOG",
+                "price": "R$16,00",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "MISTO QUENTE",
+                "price": "R$16,00",
+                "valor": null,
+                "description": null
+            }
+        ]
+    },
+    {
+        "sectionName": "PASTEIS",
+        "items": [
+            {
+                "name": "QUEIJO",
+                "price": "R$17,00",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "PIZZA",
+                "price": "R$17,00",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "BAURU",
+                "price": "R$17,00",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "CARNE",
+                "price": "R$17,00",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "FRANGO",
+                "price": "R$17,00",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "CALABREZA",
+                "price": "R$17,00",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "COSTELA BOVINA",
+                "price": "R$20,00",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "CARNE SECA",
+                "price": "R$20,00",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "CAMARÃO",
+                "price": "R$20,00",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "ADICIONAL",
+                "price": "R$5,00",
+                "valor": "",
+                "description": "Com cheddar ou catupiry ou queijo"
+            }
+        ]
+    },
+    {
+        "sectionName": "PORÇÕES",
+        "items": [
+            {
+                "name": "AZEITONA SEM CAROÇO",
+                "grande": "R$50,00",
+                "pequena": null,
+                "description": null
+            },
+            {
+                "name": "TORRESMO",
+                "grande": "R$65,00",
+                "pequena": null,
+                "description": null
+            },
+            {
+                "name": "MINI SALGADOS",
+                "grande": "R$65,00",
+                "pequena": null,
+                "description": null
+            },
+            {
+                "name": "PROVOLONE A MILANESA",
+                "grande": "R$69,00",
+                "pequena": null,
+                "description": null
+            },
+            {
+                "name": "BOLINHO DE BACALHAU",
+                "grande": "R$89.00",
+                "pequena": null,
+                "description": null
+            },
+            {
+                "name": "CEBOLA EMPADA",
+                "grande": "R$69,00",
+                "pequena": "R$49,00",
+                "description": null
+            },
+            {
+                "name": "FRITAS",
+                "grande": "R$69,00",
+                "pequena": "R$49,00",
+                "description": "ADICIONAL CATUPIRY OU CHEDDER OU BACON - R$10,00"
+            },
+            {
+                "name": "MANDIOCA",
+                "grande": "R$69,00",
+                "pequena": "R$49,00",
+                "description": null
+            },
+            {
+                "name": "POLENTA",
+                "grande": "R$69,00",
+                "pequena": "R$49,00",
+                "description": null
+            },
+            {
+                "name": "SALAME",
+                "grande": "R$69,00",
+                "pequena": "R$49,00",
+                "description": null
+            },
+            {
+                "name": "ISCA DE FRANGO",
+                "grande": "R$79,90",
+                "pequena": "R$54,90",
+                "description": null
+            },
+            {
+                "name": "FRANGO À PASSARINHO",
+                "grande": "R$95,00",
+                "pequena": null,
+                "description": null
+            },
+            {
+                "name": "TULIPA",
+                "grande": "R$95,00",
+                "pequena": "R$65,00",
+                "description": null
+            },
+            {
+                "name": "CALABRESA ACEBOLADA",
+                "grande": "R$74,90",
+                "pequena": "R$49,90",
+                "description": null
+            },
+            {
+                "name": "MANJUBA",
+                "grande": "R$108,90",
+                "pequena": "R$74,90",
+                "description": null
+            },
+            {
+                "name": "PORQUINHO",
+                "grande": "R$108,90",
+                "pequena": "R$74,90",
+                "description": null
+            },
+            {
+                "name": "CAMARÃO 7 BARBAS",
+                "grande": "R$108,90",
+                "pequena": "R$74,90",
+                "description": null
+            },
+            {
+                "name": "TILÁPIA",
+                "grande": "R$108,90",
+                "pequena": "R$74,90",
+                "description": null
+            },
+            {
+                "name": "ISCA DE PEIXE",
+                "grande": "R$108,90",
+                "pequena": "R$74,90",
+                "description": null
+            },
+            {
+                "name": "PESCADA",
+                "grande": "R$108,90",
+                "pequena": "R$74,90",
+                "description": null
+            },
+            {
+                "name": "LULA",
+                "grande": "R$108,90",
+                "pequena": "R$74,90",
+                "description": null
+            },
+            {
+                "name": "CONTRA-FILÉ (ANCHO)",
+                "grande": "R$108,90",
+                "pequena": "R$74,90",
+                "description": null
+            },
+            {
+                "name": "CAMARÃO ROSA",
+                "grande": "R$250,00",
+                "pequena": null,
+                "description": null
+            },
+            {
+                "name": "SALADA PARAÍSO",
+                "grande": "R$49,00",
+                "pequena": null,
+                "description": null
+            }
+        ]
+    },
+    {
+        "sectionName": "REFRIGERANTE LATA",
+        "items": [
+            {
+                "name": "COCA-COLA",
+                "price": "R$8,00",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "FANTA LARANJA",
+                "price": "R$8,00",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "FANTA UVA",
+                "price": "R$8,00",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "SPRITE",
+                "price": "R$8,00",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "GUARANÁ",
+                "price": "R$8,00",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "COCA-ZERO",
+                "price": "R$8,00",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "SCHWEPPS",
+                "price": "R$8,00",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "DELL VALE",
+                "price": "R$8,00",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "AGUA TÔNICA",
+                "price": "R$8,00",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "H20",
+                "price": "R$8,00",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "ÁGUA MINERAL",
+                "price": "R$5,00",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "ÁGUA C /GÁS",
+                "price": "R$5,00",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "COPO GELO E LIMÃO",
+                "price": "R$3,00",
+                "valor": null,
+                "description": null
+            }
+        ]
+    },
+    {
+        "sectionName": "SALGADOS",
+        "items": [
+            {
+                "name": "COXINHA",
+                "price": "R$12,00",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "BOLINHO DE BACALHAU",
+                "price": "R$12,00",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "BOLINHO DE CARNE",
+                "price": "R$12,00",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "RISOLE",
+                "price": "R$12,00",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "KIBE",
+                "price": "R$12,00",
+                "valor": null,
+                "description": null
+            }
+        ]
+    },
+    {
+        "sectionName": "SUCOS",
+        "items": [
+            {
+                "name": "SABORES",
+                "price": null,
+                "valor": null,
+                "description": "ABACAXI, COCO ,MORANGO, MARACUJÁ, LIMÄO, GOIABA, MANGA, CAJU, KIWI, ACEROLA, MANGA, ACEROLA COM LARANJA"
+            },
+            {
+                "name": "COM ÁGUA",
+                "price": "R$15,00",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "COM LEITE",
+                "price": "R$15,00",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "LIMONADA SUÍÇA",
+                "price": "R$18,00",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "SUCO DE LARANJA",
+                "price": "R$18,00",
+                "valor": null,
+                "description": null
+            }
+        ]
+    },
+    {
+        "sectionName": "WISKY",
+        "items": [
+            {
+                "name": "DOSE OU COMBO",
+                "price": "Preço sob consulta",
+                "valor": null,
+                "description": "OLD PAR,PASSAPORT,RED LABEL,BLACK LABEL,JACKS DANIEL'S,WHITE HORSE"
+            },
+            {
+                "name": "TEQUILA",
+                "price": "R$25,00",
+                "valor": null,
+                "description": null
+            },
+            {
+                "name": "AMARULA",
+                "price": "R$25,00",
+                "valor": null,
+                "description": null
+            }
+        ]
+    }
+]
